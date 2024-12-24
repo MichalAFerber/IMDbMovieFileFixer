@@ -1,4 +1,4 @@
-!IMDbMovieFileFixer.png
+![IMDbMovieFileFixer](IMDbMovieFileFixer.png)
 
 # IMDbMovieFileFixer
 
