@@ -131,7 +131,7 @@ This project is licensed under the GNU General Public License v3.0. See the LICE
 ## Contact
 For support or any questions, please contact:
 - **Michal Ferber**: support@michalferber.me
-- **GitHub Issues**: GitHub Issues Page
+- **GitHub Issues**: [https://github.com/MichalAFerber/IMDbMovieFileFixer/issues](https://github.com/MichalAFerber/IMDbMovieFileFixer/issues)
 
 ## Related Resources
 - IMDb
