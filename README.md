@@ -134,6 +134,6 @@ For support or any questions, please contact:
 - **GitHub Issues**: [https://github.com/MichalAFerber/IMDbMovieFileFixer/issues](https://github.com/MichalAFerber/IMDbMovieFileFixer/issues)
 
 ## Related Resources
-- IMDb
-- Python Requests Library
-- BeautifulSoup Documentation
+- [IMDb]()
+- [Python Requests Library]()
+- [BeautifulSoup Documentation](https://tedboy.github.io/bs4_doc/)
