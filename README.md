@@ -1,0 +1,2 @@
+# IMDbMovieFileFixer
+ IMDBMovieFileFixer is a Python script designed to streamline and enhance your movie file organization. This tool automatically renames movie files in a specified folder to match a standardized format, corrects common grammar mistakes, and verifies movie titles against the official names on IMDb. It logs all changes and discrepancies, ensuring your movie collection is neatly organized and accurately labeled.
