@@ -125,6 +125,7 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
 
 ## Acknowledgements
+- Plex Media Server 
 - BeautifulSoup
 - Requests
 
@@ -134,6 +135,6 @@ For support or any questions, please contact:
 - **GitHub Issues**: [https://github.com/MichalAFerber/IMDbMovieFileFixer/issues](https://github.com/MichalAFerber/IMDbMovieFileFixer/issues)
 
 ## Related Resources
-- [IMDb]()
-- [Python Requests Library]()
+- [IMDb](https://www.imdb.com/)
+- [Python Requests Library](https://pypi.org/project/requests/)
 - [BeautifulSoup Documentation](https://tedboy.github.io/bs4_doc/)
