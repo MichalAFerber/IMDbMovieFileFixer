@@ -32,8 +32,8 @@ To avoid dependency conflicts, use a virtual environment:
 
 2. Activate it:
 
-    **Windows**: `env\Scripts\activate`
-    **Unix/Linux/Mac**: `source env/bin/activate`
+- **Windows**: `env\Scripts\activate`
+- **Unix/Linux/Mac**: `source env/bin/activate`
 
 ### Install Required Libraries
 
