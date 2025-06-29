@@ -61,7 +61,7 @@ Alternatively, download the script directly from the GitHub repository.
 
 ## Usage
 
-1. **Set the Folder Path**: Open IMDbMovieFileFixer.py in a text editor and set the folder_path to your movie directory:
+1. **Set the Folder Path**: Open `IMDbMovieFileFixer.py` in a text editor and set the `folder_path` to your movie directory:
    
     ```python
     folder_path = "/path/to/your/movie/folder"
