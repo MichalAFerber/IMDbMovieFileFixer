@@ -195,7 +195,7 @@ This project is licensed under the GNU General Public License v3.0. See the LICE
 ## Acknowledgements
 - [BeautifulSoup Documentation](https://tedboy.github.io/bs4_doc/)
 - [IMDb](https://www.imdb.com/)
-- [Plex Media Server]([https://plex.tv](https://www.plex.tv/media-server-downloads/)) 
+- [Plex Media Server]([https://plex.tv](https://www.plex.tv/media-server-downloads/) 
 - [Python Requests Library](https://pypi.org/project/requests/)
 
 ## Contact
